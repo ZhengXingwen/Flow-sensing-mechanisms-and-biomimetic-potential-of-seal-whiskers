@@ -1,5 +1,3 @@
-# Flow-sensing-mechanisms-and-biomimetic-potential-of-seal-whiskers
-Supplementary material for the paper "Creating underwater vision through wavy whiskers: A review of the flow sensing mechanisms and biomimetic potential of seal whiskers"
 The following dataset has been created to expand upon the literature survey presented in the following review article:
 
 Zheng X, Kamat AM, Cao M, Kottapalli AGP. 2021 Creating underwater vision through wavy whiskers: A review of the flow sensing mechanisms and biomimetic potential of seal whiskers. J. Roy. Soc. Interface, under review
