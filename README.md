@@ -1,6 +1,6 @@
 The following dataset has been created to expand upon the literature survey presented in the following review article:
 
-Zheng X, Kamat AM, Cao M, Kottapalli AGP. 2021 Creating underwater vision through wavy whiskers: A review of the flow sensing mechanisms and biomimetic potential of seal whiskers. J. Roy. Soc. Interface, under review
+Zheng X, Kamat AM, Cao M, Kottapalli AGP. 2021 Creating underwater vision through wavy whiskers: A review of the flow sensing mechanisms and biomimetic potential of seal whiskers. J. Roy. Soc. Interface, in press
 
 The dataset, presented in the form of an Excel spreadsheet, is comprised of three sheets:
 
